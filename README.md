@@ -17,8 +17,10 @@ Welcome to my software development journey! This repository showcases my evoluti
 - [📈 Learning Journey](#-learning-journey)
 - [🌟 Philosophy & Approach](#-philosophy--approach)
 - [📊 GitHub Stats](#-github-stats)
+- [📄 Resume & CV](#-resume--cv)
+- [🚀 Project Showcase](#-project-showcase)
+- [📝 Blog Posts](#-blog-posts)
 - [🤝 Let's Connect](#-lets-connect)
-- [📝 Recent Blog Posts](#-recent-blog-posts)
 - [🎯 What's Next](#-whats-next)
 
 ## 👋 About Me
@@ -108,6 +110,32 @@ I believe in:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunPrasadNagelli&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasadNagelli&layout=compact&theme=dark)
+
+## 📄 Resume & CV
+
+📋 **[View Complete Resume](resume/RESUME.md)** - Detailed professional experience and skills
+
+**Quick Download**:
+- [PDF Version](resume/VarunPrasad_Nagelli_Resume.pdf) *(Coming Soon)*
+- [Word Version](resume/VarunPrasad_Nagelli_Resume.docx) *(Coming Soon)*
+
+## 🚀 Project Showcase
+
+🔍 **[Explore All Projects](projects/PROJECT_SHOWCASE.md)** - Detailed project information and case studies
+
+**Featured Projects**:
+- **Telus Customer Portal** - AI-augmented development with GCP
+- **Thentia Cloud Portal** - React Native cross-platform solution
+- **Calendar Integration** - Google Calendar & Outlook plugins
+
+## 📝 Blog Posts
+
+📚 **[Read All Posts](blog/BLOG_INDEX.md)** - Technical articles and insights
+
+**Recent Articles**:
+- AI-Augmented Development: The Future is Now
+- Microservices Migration: Lessons Learned
+- Cloud-Native Development with GCP
 
 ## 🤝 Let's Connect!
 
