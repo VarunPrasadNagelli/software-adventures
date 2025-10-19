@@ -139,7 +139,7 @@ I believe in:
 
 ## 🌐 Live Website
 
-**🚀 [Visit My Portfolio Website](https://varunprasadnagelli.github.io/software-adventures/website/)**
+**🚀 [Visit My Portfolio Website](https://varunprasadnagelli.github.io/software-adventures/)**
 
 A modern, responsive website showcasing my projects, skills, and experience with interactive animations and professional design.
 
