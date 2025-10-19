@@ -1,6 +1,25 @@
 # 🚀 Software Adventures
 
+<div align="center">
+
+![Software Adventures Banner](https://img.shields.io/badge/Software%20Adventures-Portfolio-blue?style=for-the-badge&logo=github)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-6%20Years%20Experience-green?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Toronto%2C%20ON-red?style=for-the-badge)
+
+</div>
+
 Welcome to my software development journey! This repository showcases my evolution as a developer, the projects I've built, and the technologies I've explored along the way.
+
+## 📑 Table of Contents
+- [👋 About Me](#-about-me)
+- [🛠️ Tech Stack & Skills](#️-tech-stack--skills)
+- [🎯 Featured Projects](#-featured-projects)
+- [📈 Learning Journey](#-learning-journey)
+- [🌟 Philosophy & Approach](#-philosophy--approach)
+- [📊 GitHub Stats](#-github-stats)
+- [🤝 Let's Connect](#-lets-connect)
+- [📝 Recent Blog Posts](#-recent-blog-posts)
+- [🎯 What's Next](#-whats-next)
 
 ## 👋 About Me
 
@@ -86,9 +105,9 @@ I believe in:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunPrasadNagelli&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunPrasadNagelli&layout=compact&theme=dark)
 
 ## 🤝 Let's Connect!
 
